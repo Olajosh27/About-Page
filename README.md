@@ -1,2 +1,2 @@
 # About-Page
-Three cards with three tings about me using HTML and CSS.
+Three cards with three things about me using HTML and CSS.
